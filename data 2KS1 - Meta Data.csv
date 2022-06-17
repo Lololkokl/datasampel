@@ -1,0 +1,18 @@
+Label,Variable,Description
+DISTRICTCODE,District Code,Code of the region/district
+CHILDREN,Children,Percentage of under five years old population
+FEMALE,Female,Percentage of female population
+ELDERLY,Elderly,Percentage of 65 years old and overpopulation
+FHEAD,Female household,Percentage of households with female head of household
+FAMILYSIZE,Household members,The average number of household members in one district
+NOELECTRIC,Non-electric household,Percentage of households that do not use electricity as lighting sources
+LOWEDU,Low education,Percentage of 15 years and overpopulation with low education
+GROWTH,Population growth,Percentage of population change
+POVERTY,Poverty,Percentage of poor people
+ILLITERATE,Illiteracy,Percentage of population that cannot read and write
+NOTRAINING,Training,Percentage of households that did not get disaster training
+DPRONE,Disaster prone,Percentage of households living in disaster-prone areas
+RENTED,Homeownership,Percentage of households renting a house
+NOSEWER,Drainage,Percentage of households that did not have a drainage system
+TAPWATER,Water source,Percentage of households that use piped water
+POPULATION,Population,Number of Population
